@@ -16,9 +16,9 @@
     {"id": "5", "title": "Email", "link": "mailto:fadilrafeek2001@gmail.com"}
   ],
   "projects": [
-    {"id": "1", "title": "Project One", "description": "Coming Soon", "imageSrc": "https://via.placeholder.com/400", "url": ""},
-    {"id": "2", "title": "Project Two", "description": "Coming Soon", "imageSrc": "https://via.placeholder.com/400", "url": ""},
-    {"id": "3", "title": "Project Three", "description": "Coming Soon", "imageSrc": "https://via.placeholder.com/400", "url": ""}
+    {"id": "1", "title": "Project One", "description": "Coming Soon", "imageSrc": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "url": ""},
+    {"id": "2", "title": "Project Two", "description": "Coming Soon", "imageSrc": "https://images.unsplash.com/photo-1586920740142-346aea2a2124?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "url": ""},
+    {"id": "3", "title": "Project Three", "description": "Coming Soon", "imageSrc": "https://images.unsplash.com/photo-1627660163665-0e35b5f9b4d9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "url": ""}
   ],
   "services": [
     {"id": "1", "title": "Embedded Systems Development", "description": "Designing and developing embedded solutions with C++, Python, and microcontrollers like Arduino and Raspberry Pi."},
