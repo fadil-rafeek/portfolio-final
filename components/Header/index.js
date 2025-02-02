@@ -34,7 +34,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 {data.darkMode && (
                   <Button
                     onClick={() =>
-                      setTheme(theme === "dark" ? "light" : "dark")
+                      setTheme(theme === "dark" ? "light" : "light")
                     }
                   >
                     <img
@@ -85,7 +85,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
 
                   <Button
-                    onClick={() => window.open("mailto:hello@chetanverma.com")}
+                    onClick={() => window.open("mailto:fadilrafeek2001@gmail.com")}
                   >
                     Contact
                   </Button>
