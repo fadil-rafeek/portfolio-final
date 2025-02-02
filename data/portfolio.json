@@ -1,1 +1,45 @@
-{"name":"Fadil","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Fadil Rafeek - welcom!","headerTaglineThree":"a Computer Systems Engineer","headerTaglineFour":" based in Dubai.","showCursor":true,"showBlog":true,"darkMode":false,"showResume":false,"socials":[{"id":"1","title":"Github","link":"https://github.com/fadil-rafeek"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in//"},{"id":"3","title":"Twitter","link":"https://twitter.com/fadil.rafeek"},{"id":"4","title":"Blog","link":"https://https://fadils-canvas.netlify.app"},{"id":"5","title":"Email","link":"mailto:fadilrafeek2001@gmail.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Coming Soon","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":""},{"id":"2","title":"Project Two","description":"Coming Soon","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://nil.com/"},{"id":"3","title":"Coming Soon","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://nil.com/"},{"id":"4","title":"Project Four","description":"Coming Soon","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://nil.com/"},{"id":"5","title":"Coming Soon","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Coming Soon","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://nil.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Hi, I’m Mohamed Fadil, a final-year Computer Systems Engineering student at Middlesex University Dubai with a passion for technology and innovation. I specialize in embedded systems, IoT, and software development, with hands-on experience in building automation solutions and optimizing algorithms. Over the years, I’ve worked in roles ranging from product enrichment in e-commerce to customer support, gaining both technical and business acumen. Proficient in Python, C++, Flutter, React, and cloud platforms like AWS and Firebase, I love tackling engineering challenges and bringing ideas to life. This blog is where I share my journey, projects, and insights—let’s build something amazing together!.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Mohamed Fadil",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Mohamed Fadil - Welcome!",
+  "headerTaglineThree": "A Computer Systems Engineer",
+  "headerTaglineFour": "Based in Dubai.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": false,
+  "showResume": true,
+  "socials": [
+    {"id": "1", "title": "Github", "link": "https://github.com/fadil-rafeek"},
+    {"id": "2", "title": "LinkedIn", "link": "https://www.linkedin.com/in/fadil-rafeek"},
+    {"id": "3", "title": "Twitter", "link": "https://twitter.com/fadil.rafeek"},
+    {"id": "4", "title": "Blog", "link": "https://fadils-canvas.netlify.app"},
+    {"id": "5", "title": "Email", "link": "mailto:fadilrafeek2001@gmail.com"}
+  ],
+  "projects": [
+    {"id": "1", "title": "Project One", "description": "Coming Soon", "imageSrc": "https://via.placeholder.com/400", "url": ""},
+    {"id": "2", "title": "Project Two", "description": "Coming Soon", "imageSrc": "https://via.placeholder.com/400", "url": ""},
+    {"id": "3", "title": "Project Three", "description": "Coming Soon", "imageSrc": "https://via.placeholder.com/400", "url": ""}
+  ],
+  "services": [
+    {"id": "1", "title": "Embedded Systems Development", "description": "Designing and developing embedded solutions with C++, Python, and microcontrollers like Arduino and Raspberry Pi."},
+    {"id": "2", "title": "IoT and Automation", "description": "Building IoT-based solutions using Firebase, MQTT, and cloud platforms like AWS and Google Cloud."},
+    {"id": "3", "title": "Software & App Development", "description": "Creating mobile and web applications with Flutter, React, and various backend technologies."},
+    {"id": "4", "title": "Data Analysis & Algorithm Optimization", "description": "Implementing efficient algorithms and data analysis techniques for software solutions."}
+  ],
+  "aboutpara": "Hi, I’m Mohamed Fadil, a final-year Computer Systems Engineering student at Middlesex University Dubai with a passion for technology and innovation. I specialize in embedded systems, IoT, and software development, with hands-on experience in building automation solutions and optimizing algorithms. Over the years, I’ve worked in roles ranging from product enrichment in e-commerce to customer support, gaining both technical and business acumen. Proficient in Python, C++, Flutter, React, and cloud platforms like AWS and Firebase, I love tackling engineering challenges and bringing ideas to life. This blog is where I share my journey, projects, and insights—let’s build something amazing together!",
+  "resume": {
+    "tagline": "👋  I'm a Computer Systems Engineer with expertise in Embedded Systems, IoT, and Software Development.",
+    "experiences": [
+      {"id": "1", "dates": "Dec 2022 - Sep 2024", "type": "Internship", "position": "Product Enrichment Leader at Clevisco.ae", "bullets": "Led product enrichment initiatives, managed SEO optimization, and enhanced online product visibility."},
+      {"id": "2", "dates": "Jan 2021 - Nov 2022", "type": "Remote", "position": "Customer Support at Al Ajwaa Landscaping L.L.C", "bullets": "Handled client calls, identified service requirements, and collaborated with sales and operations teams."}
+    ],
+    "education": {
+      "universityName": "Middlesex University Dubai",
+      "universityDate": "2020-2024",
+      "universityPara": "Pursuing a Bachelor's degree in Computer Systems Engineering. Active member of the Google Developer Student Club (GDSC) and Shutter Bugs Photography Club."
+    },
+    "languages": ["Python", "C++", "JavaScript", "SQL", "TypeScript"],
+    "frameworks": ["React", "Flutter", "Node.js"],
+    "others": ["Firebase", "AWS", "Google Cloud", "Docker", "Git"]
+  }
+}
