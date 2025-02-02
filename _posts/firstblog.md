@@ -5,7 +5,7 @@ tagline: Tracking My Journey Through the FYP Module
 preview: >-
   Welcome to my weekly updates on my final year project module! This blog will document my progress, key lessons, and experiences as I navigate through the different stages of this important academic milestone.
 image: >-
-  https://images.unsplash.com/photo-1656188505561-19f1a1b6cda8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
+  https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?q=80&w=1470&auto=format&fit=crop&ixlib=rb4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Final Year Project - Weekly Updates
