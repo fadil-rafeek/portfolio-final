@@ -6,7 +6,7 @@
   "headerTaglineFour": "Based in Dubai.",
   "showCursor": true,
   "showBlog": true,
-  "darkMode": false,
+  "darkMode": true,
   "showResume": true,
   "socials": [
     {"id": "1", "title": "Github", "link": "https://github.com/fadil-rafeek"},
