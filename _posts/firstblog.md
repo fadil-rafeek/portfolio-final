@@ -1,62 +1,33 @@
 ---
-date: '2022-07-15T11:50:54.000Z'
-title: Amazing Blog
-tagline: This is a Tagline If you want to add.
+date: '2024-02-02T12:00:00.000Z'
+title: Final Year Project - Weekly Updates
+tagline: Tracking My Journey Through the FYP Module
 preview: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-  when an unknown printer took a galley of type and scrambled it to make a type
-  specimen book.
+  Welcome to my weekly updates on my final year project module! This blog will document my progress, key lessons, and experiences as I navigate through the different stages of this important academic milestone.
 image: >-
   https://images.unsplash.com/photo-1656188505561-19f1a1b6cda8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
 ---
 
-# Heading One
+# Final Year Project - Weekly Updates
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+## Week 1: Introduction to the Project Module
+The first week was all about getting familiar with the final year project (FYP) module. The faculty and supervisors were introduced, and I was assigned my supervisor, **Geethu Joy**. The main lecturers for this module are **Fehmida Hussain** and **Roshen Renji**.
 
-## This is Heading Two
+Key discussions in the lecture:
+- Understanding the importance of the final year project and how it can boost our portfolio for future career opportunities.
+- Exploring various fields of interest, such as software development, embedded systems, artificial intelligence, and cybersecurity, to align project ideas with career aspirations.
+- Brainstorming potential project ideas, analyzing feasibility, and discussing them with supervisors for approval.
+- Learning about the project timeline, submission deadlines, and assessment criteria to plan accordingly.
+- Preparing the **first-cut proposal**, which includes an initial problem statement, research objectives, and a brief methodology.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+## Week 2: Ethical Considerations in Research
+This week's focus was on ensuring that our projects are ethically sound. The lecture emphasized the importance of ethical research and the necessary steps to avoid issues that could affect individuals or organizations when collecting data, conducting research, or performing testing.
 
-### This is Heading Three
+Key takeaways from Week 2:
+- Understanding **ethical guidelines** and compliance requirements for academic research, including informed consent and data privacy regulations.
+- Learning about **real-world ethical case studies** to recognize potential risks in research and project development.
+- Completing the **ethics approval forms**, which outline how the project will handle data collection, privacy, and participant consent, for supervisor review and peer evaluation.
+- Discussing with supervisors how to ensure our projects do not inadvertently cause harm or violate any ethical standards.
+- Gaining insights into the importance of responsible research practices and how they contribute to professional credibility and project success.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-#### This is Heading Four With Code Block
-
-```jsx
-<code className={className} {...props}>
-  {children}
-</code>
-```
-
-## BLockquote
-
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## Ordered List with horizontal line
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
----
-
-## Unordered List With Horizontal line
-
-- First item
-- Second item
-- Third item
-- Fourth item
-
----
-
-## Links
-
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
-## Images
-
-![An old rock in the desert](https://images.unsplash.com/photo-1654475677192-2d869348bb4c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+Moving forward, I will be finalizing my project idea by analyzing feasibility, gathering initial resources, and ensuring all ethical documentation is properly completed before proceeding to the next stages. Next week, I will focus on refining the proposal and gathering literature to support my research. Stay tuned for more updates!
